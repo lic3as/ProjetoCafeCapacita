@@ -1,0 +1,26 @@
+.main{
+    flex: 1;
+    display: block;
+    background-color: #f3e9e1;
+    color: #4a2c2a;
+}
+
+h2{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2rem;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}  
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-inline: 20%;
+    margin-bottom: 3%;
+}
+
+.carrossel{
+    margin-inline: 10%;
+    margin-bottom: 3%;
+}

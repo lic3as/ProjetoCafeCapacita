@@ -1,0 +1,8 @@
+.caption{
+    background-color: rgba(0, 0, 0, 0.427);
+    height: 60px;
+    border-radius: 10px;
+    padding-block: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
