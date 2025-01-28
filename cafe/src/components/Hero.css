@@ -1,6 +1,6 @@
 .hero {
   position: relative;
-  background: url('../assets/images/graos.jpg') no-repeat center center;
+  background: url('../assets/graos.jpg') no-repeat center center;
   background-size: cover;
   color: #fff;
   height: 100vh;
@@ -10,7 +10,9 @@
   justify-content: center;
   margin: 0;
 }
-
+.container-hero {
+  background-color: #ffffff99;
+}
 .hero::before {
   content: '';
   position: absolute;
