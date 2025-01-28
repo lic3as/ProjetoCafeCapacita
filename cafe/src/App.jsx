@@ -7,6 +7,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Menu from './components/Menu';
 import Hero from './components/Hero';
+import Contact from './components/Contact';
 
 function App() {
   return(
@@ -17,6 +18,7 @@ function App() {
         <Route path='/sobre-nos' element={<About></About>}></Route>
         <Route path='/menu' element={<Menu></Menu>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
+        <Route path='/contact' element={<Contact></Contact>}></Route>
       </Routes>
       <Footer></Footer>
     </Router>
