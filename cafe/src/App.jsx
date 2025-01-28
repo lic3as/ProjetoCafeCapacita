@@ -10,6 +10,7 @@ import Menu from './components/Menu';
 import Hero from './components/Hero';
 import OrderPage from './components/OrderPage';
 import Contact from './components/Contact';
+import Stories from './components/Stories';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/pedidos" element={<OrderPage />} />
           <Route path="*" element={<NotFound />} />
           <Route path="/contato" element={<Contact />} />
+          <Route path="/historias" element={<Stories />} />
         </Routes>
         <Footer />
       </Router>
