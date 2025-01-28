@@ -6,7 +6,7 @@ function Stories() {
     return (
         <section className='container-everything'>
              <h2>Historias</h2>
-             <p className='beginning- text'> Descubre as histórias inspiradoras que fazem parte do Café Do Amanhã. Desde as viajens aventureiras
+             <p className='beginning- text'> Descubra as histórias inspiradoras que fazem parte do Café Do Amanhã. Desde as viajens aventureiras
                  de Nanda até as serentas à beaira-mar de Junior, cada momento é uma celebração de suas paixões </p>
 
                  <div className='container-stories'>
