@@ -17,6 +17,9 @@ footer p {
   margin: 5px 0;
   font-family: 'Georgia', serif;
   font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 @media (max-width: 768px) {
   .footer {

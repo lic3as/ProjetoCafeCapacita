@@ -1,5 +1,7 @@
 .container-everything {
     background-color: rgb(255, 249, 242);
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
 
 h2{
@@ -19,6 +21,7 @@ h2{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+    padding-inline: 40px;
 }
 
 .box {
